@@ -20,6 +20,4 @@ const { valid, errors } = schema.validateForm({
 })
 ```
 
-```
 
-```
